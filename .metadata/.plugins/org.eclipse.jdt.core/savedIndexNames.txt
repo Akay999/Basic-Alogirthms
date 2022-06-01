@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+/media/akay/DATA/Competitive Coding/Java/BasicAlgorithms/.metadata/.plugins/org.eclipse.jdt.core
+1865797976.index
+2824215698.index
+695073915.index
